@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
+
+#Total-sold {
+    color: mediumseagreen;
+}
+
+#Total-bought{
+    color: darkcyan;
+}
+#To-sell {
+    color: tomato;
+}
+
+body{
+    font-family: 'Exo', sans-serif;
+}
